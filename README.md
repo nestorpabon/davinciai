@@ -118,4 +118,4 @@ Adapting to algorithm changes
 
 Why don't SEO experts go to the beach?
 
-Because they're afraid of the organic drop!
+Because they're afraid of the **organic drop**!
